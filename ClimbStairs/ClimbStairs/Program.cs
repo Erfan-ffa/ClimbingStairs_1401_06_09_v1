@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+using ClimbStairs;
+
+Soloution x = new Soloution();
+int j  = x.RecursiveOne(4);
+Console.WriteLine(j);
